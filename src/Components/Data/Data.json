@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lionel",
+    "last_name": "Messi",
+    "height": "1.7 m",
+    "gender": "Male",
+    "age": "33",
+    "img": "https://i.ibb.co/Ph8ssSY/messi-final.jpg",
+    "salary":2600000
+  },
+  {
+    "id": 2,
+    "first_name": "Andrés",
+    "last_name": "Iniesta",
+    "height": "1.71 m",
+    "gender": "Male",
+    "age": "36",
+    "img": "https://i.ibb.co/pnsjPgR/1-Andre-s-Iniesta.jpg",
+    "salary":300000
+  },
+  {
+    "id": 3,
+    "first_name": "Luis",
+    "last_name": "Suárez",
+    "height": "1.82 m",
+    "gender": "Male",
+    "age": "34",
+    "img": "https://i.ibb.co/rpxJwZw/luis-suarez-new.jpg",
+    "salary":150000
+  },
+  {
+    "id": 4,
+    "first_name": "Xavi",
+    "last_name": "",
+    "height": "1.81 m",
+    "gender": "Male",
+    "age": "41",
+    "img": "https://i.ibb.co/2FFKyD7/3-Xavi.jpg",
+    "salary":80000
+  },
+  {
+    "id": 5,
+    "first_name": "Ivan",
+    "last_name": "Rakitić",
+    "height": "1.84 m",
+    "gender": "Male",
+    "age": "32",
+    "img": "https://i.ibb.co/hDXh2QL/4-Ivan-Rakitic.jpg",
+    "salary":615000
+  },
+  {
+    "id": 6,
+    "first_name": "Neymar",
+    "last_name": "",
+    "height": "1.75 m",
+    "gender": "Male",
+    "age": "29",
+    "img": "https://i.ibb.co/YbZ1cBj/5-Neymar-neww.jpg",
+    "salary":3800000
+  },
+  {
+    "id": 7,
+    "first_name": "Gerard",
+    "last_name": "Piqué",
+    "height": "1.94 m",
+    "gender": "Male",
+    "age": "34",
+    "img": "https://i.ibb.co/F79gwLJ/6-Gerard-Pique.jpg",
+    "salary":8000000
+  },
+  {
+    "id": 8,
+    "first_name": "Sergio",
+    "last_name": "Busquets",
+    "height": "1.89 m",
+    "gender": "Male",
+    "age": "32",
+    "img": "https://i.ibb.co/3mqN8Vw/7-Sergio-Busquets.jpg",
+    "salary":650000
+  },
+  {
+    "id": 9,
+    "first_name": "Carles",
+    "last_name": "Puyol",
+    "height": "1.78 m",
+    "gender": "Male",
+    "age": "42",
+    "img": "https://i.ibb.co/Xtf7N7n/8-Carles-Puyol.jpg",
+    "salary":120000
+  },
+  {
+    "id": 10,
+    "first_name": "Antoine",
+    "last_name": "Griezmann",
+    "height": "1.76 m",
+    "gender": "Male",
+    "age": "29",
+    "img": "https://i.ibb.co/5rc9LQD/9-Antoine-Griezmann.jpg",
+    "salary":1100021
+  },
+  {
+    "id": 11,
+    "first_name": "Jordi",
+    "last_name": "Alba",
+    "height": "1.7 m",
+    "gender": "Male",
+    "age": "31",
+    "img": "https://i.ibb.co/PxZPQW5/10-Jordi-Alba.jpg",
+    "salary":1200825
+  },
+  {
+    "id": 12,
+    "first_name": "Martin",
+    "last_name": "Braithwaite",
+    "height": "1.7 m",
+    "gender": "Male",
+    "age": "29",
+    "img": "https://i.ibb.co/6RBQzfq/11-Martin-Braithwaite.jpg",
+    "salary":1300635
+  }
+]

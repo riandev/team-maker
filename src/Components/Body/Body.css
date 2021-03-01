@@ -1,0 +1,8 @@
+.body-container{
+    display: flex;
+}
+
+.people-body{
+    width:50%;
+    margin-left:70px;
+}

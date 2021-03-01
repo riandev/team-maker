@@ -1,0 +1,15 @@
+.count-details{
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px gray;
+    margin: 20px;
+    padding: 20px;
+    border-radius:15px;
+}
+.count-details h1{
+    font-size: 20px;
+    color: goldenrod;
+}
+.count-details h2{
+    font-size: 20px;
+    color: goldenrod;
+}

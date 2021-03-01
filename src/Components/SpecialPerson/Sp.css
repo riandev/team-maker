@@ -1,0 +1,11 @@
+.sp-details{
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px gray;
+    margin: 20px;
+    padding: 20px;
+    border-radius:15px;
+}
+.sp-details img{
+    width: 20%;
+    border-radius: 50%;    
+}

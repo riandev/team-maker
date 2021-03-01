@@ -1,0 +1,25 @@
+.people-details{
+    margin: 20px;
+    text-align: center;
+    box-shadow:10px 10px 10px 10px gray;
+    border-radius: 15px;
+    padding: 10px;
+    width:500px;
+    float: left;
+}
+.photo{
+    border-radius: 50%;
+    width: 35%;
+}
+
+@media (max-width: 480px) {
+    .people-details{
+        margin: 20px;
+        text-align: center;
+        box-shadow:10px 10px 10px 10px gray;
+        border-radius: 15px;
+        padding: 10px;
+        width:300px;
+    }
+  }
+  
